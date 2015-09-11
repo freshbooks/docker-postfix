@@ -1,6 +1,8 @@
 docker-postfix
 ==============
 
+[![Docker Repository on Quay.io](https://quay.io/repository/freshbooks/postfix/status "Docker Repository on Quay.io")](https://quay.io/repository/freshbooks/postfix)
+
 Based on https://github.com/catatnight/docker-postfix
 
 run postfix with smtp authentication (sasldb) in a docker container.
